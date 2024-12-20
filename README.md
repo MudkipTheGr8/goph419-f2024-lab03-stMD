@@ -1,0 +1,2 @@
+# goph419-f2024-lab03-stMD
+GOPH 419 LAB #3
